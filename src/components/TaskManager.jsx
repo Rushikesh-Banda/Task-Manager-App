@@ -34,7 +34,7 @@ function TaskManager() {
         🚀 Task Manager
       </h1>
 
-      <p className="text-center text-indigo-200 mb-8">
+      <p className="text-center text-black mb-8">
         Total Tasks: {tasks.length} | Completed: {completedCount}
       </p>
 
