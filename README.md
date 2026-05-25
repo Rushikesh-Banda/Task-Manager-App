@@ -16,9 +16,9 @@ The project demonstrates modern frontend development using React and reusable co
 
 ---
 
-# 🚀 Features
+# Features
 
-## ✅ Add New Tasks
+## Add New Tasks
 
 Users can:
 
@@ -28,25 +28,25 @@ Users can:
 
 ---
 
-## ✅ Display Task List
+## Display Task List
 
 Shows all tasks in an organized list format.
 
 ---
 
-## ✅ Component-Based Architecture
+## Component-Based Architecture
 
 Application is divided into reusable React components.
 
 ---
 
-## ✅ Responsive UI
+## Responsive UI
 
 Simple and clean interface using CSS styling.
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash id="4crn79"
 Task-Manager-App/
@@ -77,7 +77,7 @@ Task-Manager-App/
 
 ---
 
-# 📘 Technologies Used
+# Technologies Used
 
 | Technology     | Purpose               |
 | -------------- | --------------------- |
@@ -89,11 +89,11 @@ Task-Manager-App/
 
 ---
 
-# 📌 Important React Concepts
+# Important React Concepts
 
 ---
 
-# 🔹 React.js
+# React.js
 
 ## Definition
 
@@ -107,7 +107,7 @@ React.js is a JavaScript library used for building user interfaces.
 
 ---
 
-# 🔹 Components
+# Components
 
 ## Definition
 
@@ -122,7 +122,7 @@ This project uses Functional Components.
 
 ---
 
-# 🔹 JSX
+# JSX
 
 ## Definition
 
@@ -140,7 +140,7 @@ function App() {
 
 ---
 
-# 🔹 Props
+# Props
 
 ## Definition
 
@@ -154,7 +154,7 @@ Props are used to pass data from parent component to child component.
 
 ---
 
-# 🔹 State
+# State
 
 ## Definition
 
@@ -168,7 +168,7 @@ const [tasks, setTasks] = useState([]);
 
 ---
 
-# 🔹 Event Handling
+# Event Handling
 
 ## Definition
 
@@ -184,11 +184,11 @@ React handles user interactions using events.
 
 ---
 
-# 📄 Components Explanation
+# Components Explanation
 
 ---
 
-# 📄 AddTaskForm.jsx
+# AddTaskForm.jsx
 
 ## Purpose
 
@@ -202,7 +202,7 @@ Handles task input form.
 
 ---
 
-# 📄 TaskItem.jsx
+# TaskItem.jsx
 
 ## Purpose
 
@@ -215,7 +215,7 @@ Displays individual task details.
 
 ---
 
-# 📄 TaskList.jsx
+# TaskList.jsx
 
 ## Purpose
 
@@ -228,7 +228,7 @@ Displays all tasks in list format.
 
 ---
 
-# 📄 TaskManager.jsx
+# TaskManager.jsx
 
 ## Purpose
 
@@ -242,7 +242,7 @@ Main task management logic.
 
 ---
 
-# 📄 App.jsx
+# App.jsx
 
 ## Purpose
 
@@ -255,7 +255,7 @@ Root component of the application.
 
 ---
 
-# 📄 main.jsx
+# main.jsx
 
 ## Purpose
 
@@ -276,7 +276,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 
 ---
 
-# 🔹 Vite
+# Vite
 
 ## Definition
 
@@ -290,7 +290,7 @@ Vite is a fast frontend build tool used for React applications.
 
 ---
 
-# 🔹 CSS Styling
+# CSS Styling
 
 ## Purpose
 
@@ -307,7 +307,7 @@ Files:
 
 ---
 
-# 📌 Application Workflow
+# Application Workflow
 
 ```text id="ihg4wk"
 User Adds Task
@@ -323,7 +323,7 @@ TaskItem Displays Task
 
 ---
 
-# 📌 Common React Hooks Used
+# Common React Hooks Used
 
 | Hook      | Purpose                |
 | --------- | ---------------------- |
@@ -332,7 +332,7 @@ TaskItem Displays Task
 
 ---
 
-# ▶ How to Run the Project
+# How to Run the Project
 
 ---
 
@@ -360,7 +360,7 @@ http://localhost:5173
 
 ---
 
-# 📌 Build for Production
+# Build for Production
 
 ```bash id="5u2l6h"
 npm run build
@@ -368,7 +368,7 @@ npm run build
 
 ---
 
-# 📌 Folder Explanation
+# Folder Explanation
 
 | Folder/File | Purpose                   |
 | ----------- | ------------------------- |
@@ -381,7 +381,7 @@ npm run build
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 After completing this project, the following concepts are understood:
 
@@ -396,7 +396,7 @@ After completing this project, the following concepts are understood:
 
 ---
 
-# 🛠 Tools Used
+# Tools Used
 
 * VS Code
 * React.js
@@ -406,7 +406,7 @@ After completing this project, the following concepts are understood:
 
 ---
 
-# 📌 Real-World Use Cases
+# Real-World Use Cases
 
 | Feature          | Real-World Example     |
 | ---------------- | ---------------------- |
@@ -417,6 +417,6 @@ After completing this project, the following concepts are understood:
 
 ---
 
-# 📌 Conclusion
+# Conclusion
 
 This Task Manager Application demonstrates modern frontend development using React.js and Vite. The project follows a component-based architecture and provides hands-on experience with JSX, state management, props, event handling, and reusable UI components commonly used in real-world React applications.
